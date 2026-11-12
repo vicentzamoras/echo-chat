@@ -13,7 +13,7 @@
     "Issues": "https://github.com/vicentzamoras/echo-chat/issues"
   },
   "description": "A chat model that echoes your message, or tells a joke with /joke.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "min_app_version": "0.10.0",
   "components": [
     {
@@ -27,5 +27,8 @@
   ],
   "dependencies": [
     "pyjokes>=0.6"
+  ],
+  "plugin_dependencies": [
+    "sample-plugin>=1.0.1"
   ]
 }
