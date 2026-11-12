@@ -1,5 +1,7 @@
 # Echo Chat
 
+![Banner](images/banner.png)
+
 A chat model that echoes your message, or tells a joke with /joke.
 
 > A test plugin for the [dashAI](https://github.com/DashAISoftware/DashAI) plugin store.
@@ -14,6 +16,14 @@ A chat model that echoes your message, or tells a joke with /joke.
 ## Usage
 
 In **Generative**, choose the **Echo chat (plugin)** task and the **Echo (plugin)** model. Write anything, or `/joke`.
+
+## Screenshots
+
+![Chat screenshot](images/screenshot.png)
+
+A tall image beside a small icon:
+
+![Tall image](images/tall.png) ![Icon](images/icon.png)
 
 ## Details
 
